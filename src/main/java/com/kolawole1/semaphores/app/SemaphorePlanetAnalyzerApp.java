@@ -15,7 +15,7 @@ import java.util.concurrent.*;
 public class SemaphorePlanetAnalyzerApp {
     private static ThreadBasedPlanetFileAnalyzer fileAnalyzer = new ThreadBasedPlanetFileAnalyzer();
 
-    // Create Semaphore of Size 8
+
     static Semaphore semaphore = new Semaphore(8);
 
     public static void main(String[] folders) throws IOException, ExecutionException, InterruptedException, URISyntaxException {
