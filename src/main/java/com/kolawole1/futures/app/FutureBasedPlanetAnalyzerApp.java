@@ -1,6 +1,6 @@
-package com.planetbrain.futures.app;
+package com.kolawole1.futures.app;
 
-import com.planetbrain.threads.service.ThreadBasedPlanetFileAnalyzer;
+import com.kolawole1.threads.service.ThreadBasedPlanetFileAnalyzer;
 
 import java.net.URISyntaxException;
 import java.net.URL;

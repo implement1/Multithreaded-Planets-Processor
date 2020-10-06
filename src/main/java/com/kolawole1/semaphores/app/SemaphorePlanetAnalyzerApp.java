@@ -1,6 +1,6 @@
-package com.planetbrain.semaphores.app;
+package com.kolawole1.semaphores.app;
 
-import com.planetbrain.threads.service.ThreadBasedPlanetFileAnalyzer;
+import com.kolawole1.threads.service.ThreadBasedPlanetFileAnalyzer;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
